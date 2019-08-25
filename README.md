@@ -11,5 +11,5 @@ Coding Dojo de NodeJS com os membros da Vacilos Network
 * Execute os testes com o comando ` yarn test ` ou  ` npm test `
 
 ## Visual Studio Code - extensões recomendadas
-* Node TDD - prashaantt.node-tdd
+* Jest - orta.vscode-jest
 * Git Lens - eamodio.gitlens

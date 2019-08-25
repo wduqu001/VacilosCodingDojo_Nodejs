@@ -1,4 +1,3 @@
-
 describe('tests setup configuration', () => {
     it('should be true', () => {
         expect(true).toBeTruthy();
