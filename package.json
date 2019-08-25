@@ -1,0 +1,22 @@
+{
+  "name": "vacilos_coding_dojo_nodejs",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ./src/index.js",
+    "test": "jest ./src",
+    "test:watch": "jest ./src --watch --notify",
+    "lint": "eslint ./src"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "repository": "git@github.com:wduqu001/VacilosCodingDojo_Nodejs.git",
+  "authors": [
+    "Willian Duque <wduqu001@gmail.com>"
+  ],
+  "dependencies": {
+    "dev": "^0.1.3"
+  }
+}
